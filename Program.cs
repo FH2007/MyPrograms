@@ -7,7 +7,7 @@ namespace ConsoleApplication
 
     class Program
     {
-
+        //Аннннтониоооо Банннннндерооос!!!
         public static int BinarySearch(int[] array, int value)
         {
             if (array.Length > 0)
